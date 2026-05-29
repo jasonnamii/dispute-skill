@@ -1,17 +1,11 @@
 ---
 name: dispute-skill
 description: |
-  분쟁·소송·중재·조정·집행을 자사 이익 극대화 관점에서 설계하는 실전 전략 엔진. 법리 위에 레버리지·증거전략·타이밍·심증설계·비용편익을 얹어 김앤장급 통찰로 운영한다. 한국법 디폴트, 미·중 옵션, 그 외 법역은 검색 유도.
-  P1: 분쟁스킬, dispute, 소송, 소송전략, 민사소송, 형사대응, 중재, 조정, 집행, 가압류, 가처분, 보전처분, 증거보전, 문서제출명령, discovery, 화해, settlement, 합의전략, 손해배상, 채권추심, 분쟁대응, 승소율, BATNA, 상대로펌, 김앤장대응, ICC, SIAC, KCAB, 국제중재, 제소명령, 항소, 상고.
-  P2: 소장 받았어, 고소당했어, 내용증명 왔어, 가압류 들어왔어, 이길 수 있어, 합의할까 소송갈까, 중재 걸까, 전략 짜줘, 상대 로펌이 이렇게 나왔어.
-  P3: litigation strategy, dispute resolution, arbitration, evidence strategy, settlement timing, enforcement, leverage analysis.
-  P4: 소장·고소장 받았을 때, 소송 제기 직전, 중재 검토 시, 보전처분 대응 시, 화해 타이밍 판단 시, 대형로펌 대응 시, 판결 후 집행 시.
-  P5: 전략메모로, 시나리오보드로, 대응플랜으로, .md로.
-  NOT: 계약 작성·검토(→contract-consulting), 협상 시뮬(→negotiation-skill), 노동분쟁 1차(→labor-hr-skill), 세무불복(→tax-skill), ESG·컴플라이언스(→esg-compliance), 재무모델(→financial-model).
+  분쟁·소송·중재·조정·집행을 자사 이익 극대화 관점에서 설계하는 실전 전략 엔진. 법리 위에 레버리지·증거전략·타이밍·심증설계·비용편익을 얹어 김앤장급 통찰로 운영한다. 한국법 디폴트, 미·중 옵션, 그 외 법역은 검색 유도. 트리거: 분쟁스킬, dispute, 소송, 소송전략, 민사소송, 형사대응, 중재, 조정, 집행, 가압류, 가처분, 보전처분, 증거보전, 문서제출명령, discovery, 화해, settlement, 합의전략, 손해배상, 채권추심, 분쟁대응, 승소율, BATNA, 상대로펌, 김앤장대응, ICC. NOT: 계약 작성·검토(→contract-consulting), 협상 시뮬(→negotiation-skill), 노동분쟁 1차(→labor-hr-skill), 세무불복(→tax-skill), ESG·컴플라이언스(→esg-compliance), 재무모델(→financial-model).
+license: Proprietary. LICENSE.txt has complete terms
 metadata:
   author: jason
-  version: "1.0.0"
-license: Proprietary. LICENSE.txt has complete terms
+  version: 1.0.0
 ---
 
 # Dispute Skill v1.0 — "War Room"
