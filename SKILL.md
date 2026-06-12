@@ -1,5 +1,6 @@
 ---
 name: dispute-skill
+version: 1.0
 description: |
   분쟁·소송·중재·조정·집행을 자사 이익 극대화 관점에서 설계하는 실전 전략 엔진. 법리 위에 레버리지·증거전략·타이밍·심증설계·비용편익을 얹어 김앤장급 통찰로 운영한다. 한국법 디폴트, 미·중 옵션, 그 외 법역은 검색 유도. 트리거: 분쟁스킬, dispute, 소송, 소송전략, 민사소송, 형사대응, 중재, 조정, 집행, 가압류, 가처분, 보전처분, 증거보전, 문서제출명령, discovery, 화해, settlement, 합의전략, 손해배상, 채권추심, 분쟁대응, 승소율, BATNA, 상대로펌, 김앤장대응, ICC. NOT: 계약 작성·검토(→contract-consulting), 협상 시뮬(→negotiation-skill), 노동분쟁 1차(→labor-hr-skill), 세무불복(→tax-skill), ESG·컴플라이언스(→esg-compliance), 재무모델(→financial-model).
 license: Proprietary. LICENSE.txt has complete terms
